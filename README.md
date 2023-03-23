@@ -22,6 +22,10 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 
 →Credits
+<img width="1424" alt="(4) Screenshot with answers marked" src="https://user-images.githubusercontent.com/88961755/227257601-3a653ed7-f5df-4b32-8aa9-21067edc25e5.png">
+<img width="1424" alt="(3) Screenshot with answers marked" src="https://user-images.githubusercontent.com/88961755/227257650-4193d176-9486-45f8-9bc5-8508867f3447.png">
+<img width="1424" alt="(2) Screenshot without answers marked" src="https://user-images.githubusercontent.com/88961755/227257661-775e97cd-efcc-46ba-87fe-99f1cab052c9.png">
+<img width="1424" alt="(1) Screenshot without answers marked" src="https://user-images.githubusercontent.com/88961755/227257667-b394792a-fb40-40ba-a027-a021c8eb5e77.png">
 
 This project was built using the following resources:
 
