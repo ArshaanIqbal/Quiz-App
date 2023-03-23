@@ -25,4 +25,5 @@ HTML
 CSS
 JavaScript
 
-If you have any questions or comments about this project, please feel free to contact me at [  iqbalarshaan1a1@gmail.com  ]
+If you have any questions or comments about this project, please feel free to contact me at
+iqbalarshaan1a1@gmail.com  
