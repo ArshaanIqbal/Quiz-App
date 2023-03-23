@@ -2,6 +2,27 @@
 
 Quizyyy is a simple quiz application built using HTML, CSS, and JavaScript. It presents the user with a set of multiple-choice questions and calculates their score based on the selected answers.
 
+(1) Screenshot without answers marked
+
+<img width="1424" alt="(1) Screenshot without answers marked" src="https://user-images.githubusercontent.com/88961755/227264892-17bfa910-eda4-4436-95c8-eba0580731b1.png">
+
+(2) Screenshot without answers marked
+
+<img width="1424" alt="(2) Screenshot without answers marked" src="https://user-images.githubusercontent.com/88961755/227264978-63f6b341-5256-4af6-b35f-bb6b37775805.png">
+
+(3) Screenshot with answers marked
+
+<img width="1424" alt="(3) Screenshot with answers marked" src="https://user-images.githubusercontent.com/88961755/227265091-67f48ea5-865e-484a-9746-4f6aea7314c5.png">
+
+(4) Screenshot with answers marked
+
+<img width="1424" alt="(4) Screenshot with answers marked" src="https://user-images.githubusercontent.com/88961755/227265212-e3fa6b18-4f60-43b4-864d-59fbcf46dc8b.png">
+
+(5) Screen Recording of Quizyy Website
+
+https://user-images.githubusercontent.com/88961755/227270270-8082cfa0-025c-469f-8b4c-d8b80dc272f8.mp4
+
+
 →Note
 
 Screenshots and videos of the website have been uploaded as well
@@ -22,10 +43,6 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 
 →Credits
-<img width="1424" alt="(4) Screenshot with answers marked" src="https://user-images.githubusercontent.com/88961755/227257601-3a653ed7-f5df-4b32-8aa9-21067edc25e5.png">
-<img width="1424" alt="(3) Screenshot with answers marked" src="https://user-images.githubusercontent.com/88961755/227257650-4193d176-9486-45f8-9bc5-8508867f3447.png">
-<img width="1424" alt="(2) Screenshot without answers marked" src="https://user-images.githubusercontent.com/88961755/227257661-775e97cd-efcc-46ba-87fe-99f1cab052c9.png">
-<img width="1424" alt="(1) Screenshot without answers marked" src="https://user-images.githubusercontent.com/88961755/227257667-b394792a-fb40-40ba-a027-a021c8eb5e77.png">
 
 This project was built using the following resources:
 
