@@ -2,6 +2,10 @@
 
 Quizyyy is a simple quiz application built using HTML, CSS, and JavaScript. It presents the user with a set of multiple-choice questions and calculates their score based on the selected answers.
 
+→Note
+
+Screenshots and videos of the website have been uploaded as well
+
 →Installation
 
 No installation is required. Simply clone or download the repository and open the index.html file in your web browser.
