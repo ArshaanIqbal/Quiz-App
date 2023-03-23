@@ -1,4 +1,4 @@
-Quizyyy
+#Quizyyy
 
 Quizyyy is a simple quiz application built using HTML, CSS, and JavaScript. It presents the user with a set of multiple-choice questions and calculates their score based on the selected answers.
 
